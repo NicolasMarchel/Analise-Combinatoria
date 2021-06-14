@@ -1,0 +1,13 @@
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.exe
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.deps.json
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.runtimeconfig.json
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.runtimeconfig.dev.json
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.dll
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\bin\Debug\netcoreapp3.1\AnaliseCombinatoria.pdb
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.AssemblyInfo.cs
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.dll
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.pdb
+C:\Users\Nicolas\Google Drive\GitHub\Analise-Combinatoria\AnaliseCombinatoria\AnaliseCombinatoria\obj\Debug\netcoreapp3.1\AnaliseCombinatoria.genruntimeconfig.cache
